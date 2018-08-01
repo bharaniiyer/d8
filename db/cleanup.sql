@@ -1,0 +1,12 @@
+TRUNCATE TABLE cache_bootstrap;
+TRUNCATE TABLE cache_config;
+TRUNCATE TABLE cache_container;
+TRUNCATE TABLE cache_data;
+TRUNCATE TABLE cache_default;
+TRUNCATE TABLE cache_discovery;
+TRUNCATE TABLE cache_entity;
+TRUNCATE TABLE cache_menu;
+TRUNCATE TABLE cache_render;
+TRUNCATE TABLE cache_rest;
+TRUNCATE TABLE cache_toolbar;
+TRUNCATE TABLE watchdog;
